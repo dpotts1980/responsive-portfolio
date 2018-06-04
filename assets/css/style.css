@@ -241,7 +241,7 @@ section {
         height: 800px;
     }
     .placeholder {
-        width: 30%;
+        width: 20%;
         height: 10%;
         margin-left: 5%;
         margin-right: 2%;
@@ -279,7 +279,7 @@ section {
         float: none;
     }
     p {
-        width: 600px;
+        width: 400px;
     }
     #contact-form {
         width: 475px;
